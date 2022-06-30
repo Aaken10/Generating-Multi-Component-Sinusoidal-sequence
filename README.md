@@ -1,4 +1,4 @@
-# Generating-Multi-Component-Sinusoidal-sequence
+# Digital Signal Processing
 
 a)A MATLAB program  to  generate a multi-componentsinusoidal  sequence with six odd harmonics. Assume the fundamental frequency is 50 Hz.Determine the period of each sinusoidal sequence sampled at Fs>2*Fmax from the plot. 
 
